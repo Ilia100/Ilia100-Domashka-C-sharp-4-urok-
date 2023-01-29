@@ -1,0 +1,15 @@
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.csproj.AssemblyReference.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.AssemblyInfoInputs.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.AssemblyInfo.cs
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\bin\Debug\net6.0\задача 29.exe
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\bin\Debug\net6.0\задача 29.deps.json
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\bin\Debug\net6.0\задача 29.runtimeconfig.json
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\bin\Debug\net6.0\задача 29.dll
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\bin\Debug\net6.0\задача 29.pdb
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.dll
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\refint\задача 29.dll
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.pdb
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\задача 29.genruntimeconfig.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 29\obj\Debug\net6.0\ref\задача 29.dll
