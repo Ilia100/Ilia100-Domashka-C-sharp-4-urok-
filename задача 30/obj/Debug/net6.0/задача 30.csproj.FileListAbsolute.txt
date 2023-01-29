@@ -1,0 +1,15 @@
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\bin\Debug\net6.0\задача 30.exe
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\bin\Debug\net6.0\задача 30.deps.json
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\bin\Debug\net6.0\задача 30.runtimeconfig.json
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\bin\Debug\net6.0\задача 30.dll
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\bin\Debug\net6.0\задача 30.pdb
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.csproj.AssemblyReference.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.AssemblyInfoInputs.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.AssemblyInfo.cs
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.dll
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\refint\задача 30.dll
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.pdb
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\задача 30.genruntimeconfig.cache
+C:\Users\Pavilion\Desktop\it ilya\Elya c# seminar 4\задача 30\obj\Debug\net6.0\ref\задача 30.dll
