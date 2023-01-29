@@ -7,32 +7,32 @@
 
 int GetNumber(string message)
 {
-int result = 0;
+    int result = 0;
 
-while (true)
-{
-Console.WriteLine(message);
+    while (true)
+    {
+        Console.WriteLine(message);
 
-if (int.TryParse(Console.ReadLine(), out result))
-{
-break;
-}
-else
-{
-Console.WriteLine("Ввели не число. Повторите ввод");
-}
-}
+        if (int.TryParse(Console.ReadLine(), out result))
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Ввели не число. Повторите ввод");
+        }
+    }
 
-return Math.Abs(result);
+    return Math.Abs(result);
 }
 
 
 
 void GetLong(int GetNumber)
 {
-string GetText = GetNumber.ToString();
-int longText = GetText.Length;
-Console.WriteLine(longText);
+    string GetText = GetNumber.ToString();
+    int longText = GetText.Length;
+    Console.WriteLine(longText);
 }
 
 int number = GetNumber("Введите любое число");

@@ -40,13 +40,13 @@ int GetLong(int num)
 void Getsum(int numb, int Length)
 {
     int result = 0;
-    int temp =numb;
+    int temp = numb;
 
     for (int i = 1; i <= Length; i++)
     {
-        
-        result = result + (temp%(10));
-        temp=temp/10;
+
+        result = result + (temp % (10));
+        temp = temp / 10;
     }
 
     Console.WriteLine($"сумма цифр: {result}");
@@ -54,4 +54,4 @@ void Getsum(int numb, int Length)
 
 int number = GetNumber("Введите любое число");
 int l = GetLong(number);
-Getsum(number, l); 
+Getsum(number, l);

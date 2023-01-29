@@ -7,35 +7,35 @@
 
 int GetNumber(string message)
 {
-int result = 0;
+    int result = 0;
 
-while(true)
-{
-Console.WriteLine(message);
+    while (true)
+    {
+        Console.WriteLine(message);
 
-if(int.TryParse(Console.ReadLine(), out result) && result > 1)
-{
-break;
-}
-else
-{
-Console.WriteLine("Ввели не число. Повторите ввод");
-}
-}
+        if (int.TryParse(Console.ReadLine(), out result) && result > 1)
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Ввели не число. Повторите ввод");
+        }
+    }
 
-return result;
+    return result;
 }
 
 int GetSumm(int number)
 {
-int sum = 0;
+    int sum = 0;
 
-for (int i = 1; i <= number; i++)
-{
-sum += i;
-}
+    for (int i = 1; i <= number; i++)
+    {
+        sum += i;
+    }
 
-return sum;
+    return sum;
 }
 
 int number = GetNumber("Введите число больше 1");
